@@ -1,5 +1,4 @@
-# Flow
-FLOW application source code
+
 <!DOCTYPE html>
 <html lang="ru" data-theme="dark">
 <head>
